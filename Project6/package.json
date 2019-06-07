@@ -1,0 +1,24 @@
+{
+  "name": "project_6",
+  "version": "1.0.0",
+  "description": "Web Scraper",
+  "main": "Project_6_Webscraper_Final",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "cheerio": "^1.0.0-rc.2",
+    "json-2-csv": "^3.4.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "david",
+    "treehouse"
+  ],
+  "author": "David Barth",
+  "license": "MIT"
+}
